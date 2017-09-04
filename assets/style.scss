@@ -97,10 +97,13 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  /*color: #2a7ae2;*/
+  color: #1a6ad2;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    /*color: #1756a9; */
+    color: #1a6ad2;
+    }
   a:hover {
     /*color: #111;
     text-decoration: underline; */
@@ -200,7 +203,7 @@ pre {
   .site-title, .site-title:visited {
     color: #424242; }
 .site-title .color {
-  color: #2a7ae2; 
+  color: #1a6ad2; 
   /*color: #727272;*/
 }
 
