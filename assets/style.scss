@@ -107,7 +107,8 @@ a {
   a:hover {
     /*color: #111;
     text-decoration: underline; */
-    color: #f44336; /* #e91e63 f44336 */
+    /*color: #f44336; *//* #e91e63 f44336 */
+    color: #d42316;
     text-decoration: none;
   }
 
@@ -203,7 +204,7 @@ pre {
   .site-title, .site-title:visited {
     color: #424242; }
 .site-title .color {
-  color: #f44336;
+  color: #a40306;
   /*color: #1a6ad2; */
   /*color: #727272;*/
 }
@@ -223,7 +224,8 @@ pre {
       margin-left: 20px; }
     .site-nav .page-link:hover {
       /*color: #000000;*/
-      color: #f44336; /* #e91e63 f44336 */
+      /* color: #f44336; */ /* #e91e63 f44336 */
+      color: #d42316;
       /*border-bottom: solid 1px #8f8f8f;*/
       padding-bottom: 5px; }
   @media screen and (max-width: 600px) {
