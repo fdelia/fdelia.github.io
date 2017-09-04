@@ -1,0 +1,18 @@
+Wednesday, 10-Aug-2016 23:30:49 - backup started
+Wednesday, 10-Aug-2016 23:30:49 - wp version     : 4.5.3
+Wednesday, 10-Aug-2016 23:30:49 - php version    : 5.4.40
+Wednesday, 10-Aug-2016 23:30:49 - mysql version  : 5.5.45
+Wednesday, 10-Aug-2016 23:30:49 - memory limit   : 1024M
+Wednesday, 10-Aug-2016 23:30:49 - execution time : 600
+Wednesday, 10-Aug-2016 23:30:49 - mysql timeout  : 600
+Wednesday, 10-Aug-2016 23:30:49 - socket timeout : 600
+Wednesday, 10-Aug-2016 23:30:49 - files larger than 25 MB will be excluded from the backup
+Wednesday, 10-Aug-2016 23:30:49 - generating file list
+Wednesday, 10-Aug-2016 23:30:49 - number of files to include in the archive is 1, and their uncompressed size is 28 B
+Wednesday, 10-Aug-2016 23:30:49 - finished generating file list
+Wednesday, 10-Aug-2016 23:30:49 - database backup started
+Wednesday, 10-Aug-2016 23:30:49 - backing up tables with "wp_" prefix
+Wednesday, 10-Aug-2016 23:30:49 - number of tables to backup - 22
+Wednesday, 10-Aug-2016 23:30:50 - database backup finished
+Wednesday, 10-Aug-2016 23:30:50 - archiving files using ziparchive
+Wednesday, 10-Aug-2016 23:30:50 - backup finished

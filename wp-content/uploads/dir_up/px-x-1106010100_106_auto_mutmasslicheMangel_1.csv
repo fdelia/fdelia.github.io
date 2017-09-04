@@ -1,0 +1,66 @@
+"Strassenverkehrsunfälle: Mutmassliche Mängel und Einflüsse"
+
+"Mangel oder Einfluss"	"Objektart"	"Unfallschwere"	"1995"	"2005"	"2015"
+"A: Zustand des Lenkers oder Fussgängers"	"Personenwagen"	"Unfall mit leicht Verletzten"	1752	1638	1335
+"A: Zustand des Lenkers oder Fussgängers"	"Personenwagen"	"Unfall mit schwer Verletzten"	778	582	358
+"A: Zustand des Lenkers oder Fussgängers"	"Personenwagen"	"Unfall mit Getöteten"	157	111	44
+"A: Beeinträchtigte Sicht des Lenkers"	"Personenwagen"	"Unfall mit leicht Verletzten"	197	179	97
+"A: Beeinträchtigte Sicht des Lenkers"	"Personenwagen"	"Unfall mit schwer Verletzten"	101	66	31
+"A: Beeinträchtigte Sicht des Lenkers"	"Personenwagen"	"Unfall mit Getöteten"	12	7	1
+"A: Nichtbeachten von Zeichengebung oder Signalisation"	"Personenwagen"	"Unfall mit leicht Verletzten"	395	302	444
+"A: Nichtbeachten von Zeichengebung oder Signalisation"	"Personenwagen"	"Unfall mit schwer Verletzten"	109	53	39
+"A: Nichtbeachten von Zeichengebung oder Signalisation"	"Personenwagen"	"Unfall mit Getöteten"	11	3	5
+"A: Missachten der Lichtsignale"	"Personenwagen"	"Unfall mit leicht Verletzten"	385	265	163
+"A: Missachten der Lichtsignale"	"Personenwagen"	"Unfall mit schwer Verletzten"	103	51	32
+"A: Missachten der Lichtsignale"	"Personenwagen"	"Unfall mit Getöteten"	2	1	1
+"A: Mangelhafte Bedienung des Fahrzeuges"	"Personenwagen"	"Unfall mit leicht Verletzten"	402	622	542
+"A: Mangelhafte Bedienung des Fahrzeuges"	"Personenwagen"	"Unfall mit schwer Verletzten"	112	155	121
+"A: Mangelhafte Bedienung des Fahrzeuges"	"Personenwagen"	"Unfall mit Getöteten"	7	11	2
+"A: Ladung des Fahrzeuges"	"Personenwagen"	"Unfall mit leicht Verletzten"	22	20	13
+"A: Ladung des Fahrzeuges"	"Personenwagen"	"Unfall mit schwer Verletzten"	4	5	3
+"A: Ladung des Fahrzeuges"	"Personenwagen"	"Unfall mit Getöteten"	1	0	0
+"A: Unaufmerksamkeit und Ablenkung"	"Personenwagen"	"Unfall mit leicht Verletzten"	4548	4661	2913
+"A: Unaufmerksamkeit und Ablenkung"	"Personenwagen"	"Unfall mit schwer Verletzten"	1047	841	423
+"A: Unaufmerksamkeit und Ablenkung"	"Personenwagen"	"Unfall mit Getöteten"	118	46	21
+"B: Mangel an der Strassenanlage"	"Personenwagen"	"Unfall mit leicht Verletzten"	210	89	51
+"B: Mangel an der Strassenanlage"	"Personenwagen"	"Unfall mit schwer Verletzten"	69	16	12
+"B: Mangel an der Strassenanlage"	"Personenwagen"	"Unfall mit Getöteten"	2	1	1
+"B: Momentaner äusserer Einfluss"	"Personenwagen"	"Unfall mit leicht Verletzten"	221	225	210
+"B: Momentaner äusserer Einfluss"	"Personenwagen"	"Unfall mit schwer Verletzten"	87	52	43
+"B: Momentaner äusserer Einfluss"	"Personenwagen"	"Unfall mit Getöteten"	13	2	7
+"B: Einfluss durch Dritte"	"Personenwagen"	"Unfall mit leicht Verletzten"	98	67	87
+"B: Einfluss durch Dritte"	"Personenwagen"	"Unfall mit schwer Verletzten"	17	17	14
+"B: Einfluss durch Dritte"	"Personenwagen"	"Unfall mit Getöteten"	2	1	0
+"C: Mangelhafter Unterhalt des Fahrzeuges"	"Personenwagen"	"Unfall mit leicht Verletzten"	196	128	49
+"C: Mangelhafter Unterhalt des Fahrzeuges"	"Personenwagen"	"Unfall mit schwer Verletzten"	79	23	8
+"C: Mangelhafter Unterhalt des Fahrzeuges"	"Personenwagen"	"Unfall mit Getöteten"	18	2	0
+"C: Technische Defekte am Fahrzeug"	"Personenwagen"	"Unfall mit leicht Verletzten"	41	20	13
+"C: Technische Defekte am Fahrzeug"	"Personenwagen"	"Unfall mit schwer Verletzten"	7	11	2
+"C: Technische Defekte am Fahrzeug"	"Personenwagen"	"Unfall mit Getöteten"	1	2	0
+"D: Geschwindigkeit"	"Personenwagen"	"Unfall mit leicht Verletzten"	3112	2891	1464
+"D: Geschwindigkeit"	"Personenwagen"	"Unfall mit schwer Verletzten"	1140	706	288
+"D: Geschwindigkeit"	"Personenwagen"	"Unfall mit Getöteten"	189	134	40
+"D: Links-/Rechtsfahren und Einspuren"	"Personenwagen"	"Unfall mit leicht Verletzten"	859	859	741
+"D: Links-/Rechtsfahren und Einspuren"	"Personenwagen"	"Unfall mit schwer Verletzten"	257	229	163
+"D: Links-/Rechtsfahren und Einspuren"	"Personenwagen"	"Unfall mit Getöteten"	45	17	13
+"D: Ueberholen (Situation)"	"Personenwagen"	"Unfall mit leicht Verletzten"	180	138	64
+"D: Ueberholen (Situation)"	"Personenwagen"	"Unfall mit schwer Verletzten"	67	49	25
+"D: Ueberholen (Situation)"	"Personenwagen"	"Unfall mit Getöteten"	12	3	1
+"D: Ueberholen (Verkehrsablauf)"	"Personenwagen"	"Unfall mit leicht Verletzten"	340	265	261
+"D: Ueberholen (Verkehrsablauf)"	"Personenwagen"	"Unfall mit schwer Verletzten"	127	72	57
+"D: Ueberholen (Verkehrsablauf)"	"Personenwagen"	"Unfall mit Getöteten"	15	13	5
+"D: Missachten des Vortrittrechtes"	"Personenwagen"	"Unfall mit leicht Verletzten"	3889	3800	2996
+"D: Missachten des Vortrittrechtes"	"Personenwagen"	"Unfall mit schwer Verletzten"	1226	910	772
+"D: Missachten des Vortrittrechtes"	"Personenwagen"	"Unfall mit Getöteten"	72	38	20
+"D: Andere Fahrbewegungen"	"Personenwagen"	"Unfall mit leicht Verletzten"	1929	2260	1749
+"D: Andere Fahrbewegungen"	"Personenwagen"	"Unfall mit schwer Verletzten"	294	279	146
+"D: Andere Fahrbewegungen"	"Personenwagen"	"Unfall mit Getöteten"	11	8	1
+"D: Fahrrad- und Motorfahrradverkehr"	"Personenwagen"	"Unfall mit leicht Verletzten"	0	1	1
+"D: Fahrrad- und Motorfahrradverkehr"	"Personenwagen"	"Unfall mit schwer Verletzten"	0	0	0
+"D: Fahrrad- und Motorfahrradverkehr"	"Personenwagen"	"Unfall mit Getöteten"	0	1	0
+"D: Verhalten des Fussgängers"	"Personenwagen"	"Unfall mit leicht Verletzten"	0	0	1
+"D: Verhalten des Fussgängers"	"Personenwagen"	"Unfall mit schwer Verletzten"	0	0	0
+"D: Verhalten des Fussgängers"	"Personenwagen"	"Unfall mit Getöteten"	0	0	0
+"D: Unbekannter Mangel/Einfluss"	"Personenwagen"	"Unfall mit leicht Verletzten"	107	61	88
+"D: Unbekannter Mangel/Einfluss"	"Personenwagen"	"Unfall mit schwer Verletzten"	33	20	26
+"D: Unbekannter Mangel/Einfluss"	"Personenwagen"	"Unfall mit Getöteten"	16	2	13
