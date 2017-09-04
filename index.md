@@ -7,7 +7,10 @@ layout: home
 
 Welcome to my home page!
 
-I like to explore. I always was the kind of guy which was tinkering around trying funny, new or strange things. I liked the mechanic of taking known things and built something new with them. That traversed to asking myself “is it possible to make/reach X?”. I started stupendous projects. Most of them never reached a useful state, but I learned a lot.
+I like to explore. I always was the kind of guy which was tinkering around trying funny, new or strange things. I liked the mechanic of taking known things and built something new with them. That traversed to asking myself “is it possible to make/reach X?”.
 
 My focus has always been on people, emotional things (music, movies, art), culture and computers. For example I like to talk; I really value it. There is nothing more fascinating for me than a long, profound talk.
 
+At the moment I am following an education in law (at University of Zurich) while working as software engineer. I have several ideas on how to use the knowledge from both subjects and will pursue a corresponding path.
+
+Please take a look at my [blog](/blog/).
