@@ -1,8 +1,9 @@
 ---
 title: About Me
 date: 2015-04-13T14:01:03+00:00
-author: fdel
+author: Fabio D'Elia
 layout: page
+permalink: /about/
 ---
 My name is Fabio, I am still young, but not too young anymore. I love people, reading books, have a fondness for cats and complex things, and am excited to try if things work out. I like listening to music, travelling around (not too far though) and doing some sports. I publish things here in the hope that they may help, enlighten or entertain someone.
 
