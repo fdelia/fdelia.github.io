@@ -16,6 +16,8 @@ weight: 1
 
     <h5>
       <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | split: ' ' | slice: 0, 100 | join: ' ' }}
+        </p>
     </h5>
   </li>
 {% endfor %}

@@ -8,7 +8,6 @@ permalink: /a-drone-following-my-hand/
 categories:
   - Projects
 ---
-### An overview
 
 Some time ago I bought a parrot AR drone 2.0 and thought I would be nice to make it more autonomous. The idea came from this guys who made a drone following a trail ([paper](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7358076), [youtube](https://www.youtube.com/watch?v=umRdt3zGgpU)) and from having a dog. Since the drone doesn’t have much sensors, I’d have to do the most out of it’s front camera.
 

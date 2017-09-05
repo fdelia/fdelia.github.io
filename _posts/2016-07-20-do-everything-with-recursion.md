@@ -5,10 +5,11 @@ date: 2016-07-20T15:51:05+00:00
 author: Fabio D'Elia
 layout: post
 permalink: /do-everything-with-recursion/
-image: https://fabiodelia.com/wp-content/uploads/2016/08/8_scale_fractal-250x250.png
+# image: https://fabiodelia.com/wp-content/uploads/2016/08/8_scale_fractal-250x250.png
 categories:
   - Software stuff
 ---
+
 This post is about theoretical stuff.
 
 When I was young (15y), my first attempt to program something bigger was a compiler. It should compile my own language into C++ and was itself written in C++. I was fascinated by the possibility to design an own language.
