@@ -41,25 +41,26 @@ Let&#8217;s take a look at the cron script, i&#8217;ll make some more comments b
 # first check if the laptop lid is closed and don't run the script if it is - this worked better for me
 str=$(/usr/sbin/ioreg -r -k AppleClamshellState -d 4 | grep AppleClamshellState  | head -1)
 if [[ $str =~ .*No.* ]]
+    then
+
+    # find out if in library
+    # library coordinates, set to your coordinates
+    lat_zb=47.564431
+    long_zb=8.385578
+    dist=0.003
+
+    where=$(/Users/fabiodelia/dev/whereami) &gt;&gt;/dev/null 2&gt;/dev/null
+    lat=$(echo $where|cut -d' ' -f2|bc -l)
+    long=$(echo $where|cut -d' ' -f4|bc -l)
+
+    # check if current position is less than "dist" 
+    # away from the coordinates given above
+    if (( $(echo "$lat_zb &gt; ($lat-$dist)" |bc -l) )) && (( $(echo "$lat_zb &lt; $lat+$dist" |bc -l) )) && (( $(echo "$long_zb &gt; $long - 0.003" |bc -l) )) && (( $(echo "$long_zb &lt; $long + 0.003" |bc -l) ))
         then
-
-        # find out if in library
-        # library coordinates, set to your coordinates
-        lat_zb=47.564431
-        long_zb=8.385578
-        dist=0.003
-
-        where=$(/Users/fabiodelia/dev/whereami) &gt;&gt;/dev/null 2&gt;/dev/null
-        lat=$(echo $where|cut -d' ' -f2|bc -l)
-        long=$(echo $where|cut -d' ' -f4|bc -l)
-
-        # check if current position is less than "dist" away from the coordinates given above
-        if (( $(echo "$lat_zb &gt; ($lat-$dist)" |bc -l) )) && (( $(echo "$lat_zb &lt; $lat+$dist" |bc -l) )) && (( $(echo "$long_zb &gt; $long - 0.003" |bc -l) )) && (( $(echo "$long_zb &lt; $long + 0.003" |bc -l) ))
-                then
-                
-                # the actual monitoring part
-                /usr/local/bin/tshark -a duration:32 -I -i en0 -Tfields -e wlan.sa -e wlan.bssid -e wlan_mgt.ssid -e radiotap.dbm_antsignal 2&gt;/dev/null | sort -u | python /path/to/your/script.py
-        fi
+        
+        # the actual monitoring part
+        /usr/local/bin/tshark -a duration:32 -I -i en0 -Tfields -e wlan.sa -e wlan.bssid -e wlan_mgt.ssid -e radiotap.dbm_antsignal 2&gt;/dev/null | sort -u | python /path/to/your/script.py
+    fi
 fi
 ```
 
