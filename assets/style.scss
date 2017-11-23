@@ -2,7 +2,10 @@
 ---
 
 /*@import "jekyll-theme-minimal";*/
-
+@font-face {
+    font-family: AppSILR;
+    src: url(assets/AppSILR.ttf)
+}
 
 /**
  * Reset some basic elements
@@ -33,7 +36,8 @@ h4 {
  * Basic styling
  */
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  /*font-family: Helvetica, Arial, sans-serif;*/
+  font-family: AppSILR,Georgia,Cambria,"Times New Roman",Times,serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
