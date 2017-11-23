@@ -7,7 +7,7 @@ weight: 1
 
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  
+
 <ul class="post-list">
 {% for post in site.posts %}
   <li>
@@ -16,10 +16,9 @@ weight: 1
 
     <h5>
       <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | split: ' ' | slice: 0, 100 | join: ' ' }}
-        </p>
     </h5>
+    <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | split: ' ' | slice: 0, 100 | join: ' ' }}
+    </p>
   </li>
 {% endfor %}
 </ul>
-
