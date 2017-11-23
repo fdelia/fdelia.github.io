@@ -2,10 +2,10 @@
 ---
 
 /*@import "jekyll-theme-minimal";*/
-@font-face {
+/*@font-face {
     font-family: AppSILR;
     src: url(AppSILR.ttf)
-}
+}*/
 
 /**
  * Reset some basic elements
@@ -37,7 +37,17 @@ h4 {
  */
 body {
   /*font-family: Helvetica, Arial, sans-serif;*/
-  font-family: AppSILR,Georgia,Cambria,"Times New Roman",Times,serif;
+  /*font-family: AppSILR,Georgia,Cambria,"Times New Roman",Times,serif;*/
+  font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 20px;
+    line-height: 1.6;
+    font-family: "PT Serif", Georgia, serif;
+
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
