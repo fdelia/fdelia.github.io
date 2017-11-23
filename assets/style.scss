@@ -108,7 +108,9 @@ a {
     /*color: #111;
     text-decoration: underline; */
     /*color: #f44336; *//* #e91e63 f44336 */
-    color: #d42316;
+    /*color: #d42316;*/
+    color: #a40306;
+    /*color: #821122;*/
     text-decoration: none;
   }
 
@@ -225,7 +227,9 @@ pre {
     .site-nav .page-link:hover {
       /*color: #000000;*/
       /* color: #f44336; */ /* #e91e63 f44336 */
-      color: #d42316;
+      /*color: #d42316;*/
+      color: #a40306;
+      /*color: #821122;*/
       /*border-bottom: solid 1px #8f8f8f;*/
       padding-bottom: 5px; }
   @media screen and (max-width: 600px) {
@@ -327,7 +331,9 @@ pre {
   color: white; }
   .social-col .fa:hover {
     /*color: #828282; */
-    color: #d42316;
+    /*color: #d42316;*/
+    color: #a40306;
+    /*color: #821122;*/
     }
 
 .rss-subscribe {
@@ -386,7 +392,7 @@ pre {
     color: black;
   }
 
-  
+
   .overlay {
     font-weight: bold;
     position: absolute;
@@ -411,4 +417,3 @@ pre {
     -ms-transform: translate(-50%, -50%);
   }
 }
-
