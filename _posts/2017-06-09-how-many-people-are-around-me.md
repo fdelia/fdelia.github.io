@@ -14,7 +14,7 @@ How could that be easier in those days where everyone not only has a smartphone 
 
 I built a small script, which determines the amount of unique mac addresses every x minutes. The idea is that once i have some free time, I might analyze the data.
 
-<span style="color: #ff0000;">Disclaimer: Tracking mac addresses may be illegal in your country. Please check your laws first.</span> I didn&#8217;t found applicable jurisdiction for Switzerland, but tracing a person falls under data protection (especially under Art. 12 ff. DSG, last checked: 9. June 2017).
+<span style="color: #ff0000;">Disclaimer: Tracking mac addresses may be illegal in your country. Please check your laws first.</span> I didn&#8217;t find applicable jurisdiction for Switzerland, but tracing a person falls under data protection (especially under Art. 12 ff. DSG, last checked: 9. June 2017).
   
 I hash all mac addresses with a daily changing random salt, so that every day the mac addresses are converted into an other hash and are not traceable. At the end of every day I count the addresses and delete them, so that only total numbers are left. I will not share that script though, because I’m paranoid that someone will reverse-engineer stuff.
 

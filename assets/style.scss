@@ -51,7 +51,8 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  color: #111;
+  /* color: #111; */
+  color: rgba(0,0,0,.84);
   background-color: #ffffff;
   -webkit-text-size-adjust: 100%; }
 
@@ -75,7 +76,8 @@ ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
 h1, h2, h3, h4, h5, h6 {
-  color: #333;
+  /*color: #333;*/
+  color: rgba(30,30,30,.84);
 }
 h5 {
   margin-bottom: 5px;
@@ -237,7 +239,8 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    /*color: #111;*/
+    color: rgba(0,0,0,.84);
     line-height: 1.5;
     text-decoration: none;
     text-transform: uppercase;
