@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome to my home page!
+Welcome to my site!
 
 I like to explore. I always was the kind of guy which was tinkering around trying funny, new or strange things. I liked the mechanic of taking known things and built something new with them. That traversed to asking myself “is it possible to make/reach X?”.
 
