@@ -13,7 +13,7 @@ I had the intention to go deep into theoretical physics and started studying mat
 
 Now I still work on small projects with a team, but it&#8217;s not much. I have a student job too.
 
-I&#8217;m also on [Github](https://github.com/fdelia/) and [Goodreads](https://www.goodreads.com/user/show/38172824-fabio).
+I&#8217;m also on [Github](https://github.com/fdelia/), [Flickr](https://www.flickr.com/people/163132185@N05/) and [Goodreads](https://www.goodreads.com/user/show/38172824-fabio).
 
 This is me:
 
