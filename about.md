@@ -11,7 +11,7 @@ My first education was a school to become a software developer (Informatikmittel
 
 I had the intention to go deep into theoretical physics and started studying mathematics at the ETH Zurich. After finishing it, I switched to law at the University of Zurich. Why law? Isn&#8217;t it totally different than technical and mathematical stuff? Partially yes. Law also has a lot in common with coding and partially with maths (if you&#8217;re interested, f.e. <a href="https://en.wikipedia.org/wiki/Lawrence_Lessig" target="_blank" rel="noopener">Lawrence Lessig</a> does some comparisons between law and code). I was teached law in the Informatikmittelschule and was interested in it since then. For me studying law is a small adventure, something different &#8211; I like it. I also missed the human interaction while working at math stuff.
 
-Now I still work on small projects with a team, but it&#8217;s not much. I have a student job too.
+Now I still work on small projects with a team, but it&#8217;s not much. I'm in a part time job as a Software Engineer.
 
 I&#8217;m also on [Github](https://github.com/fdelia/), [Flickr](https://www.flickr.com/people/163132185@N05/) and [Goodreads](https://www.goodreads.com/user/show/38172824-fabio).
 
