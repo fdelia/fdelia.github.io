@@ -15,6 +15,8 @@ Now I still work on small projects with a team, but it&#8217;s not much. I have 
 
 I&#8217;m also on [Github](https://github.com/fdelia/), [Flickr](https://www.flickr.com/people/163132185@N05/) and [Goodreads](https://www.goodreads.com/user/show/38172824-fabio).
 
+If you want to mail me, you can do so at: [my first name][period]["rdelia"][ad]gmail.com
+
 This is me:
 
 <!--[<img class="alignnone size-medium wp-image-279" src="/wp-content/uploads/2015/04/10458378_1043507712329992_7596479254791654183_n-300x300.jpg" alt="me" width="300" height="300" srcset="/wp-content/uploads/2015/04/10458378_1043507712329992_7596479254791654183_n-300x300.jpg 300w, /wp-content/uploads/2015/04/10458378_1043507712329992_7596479254791654183_n-150x150.jpg 150w, /wp-content/uploads/2015/04/10458378_1043507712329992_7596479254791654183_n-768x769.jpg 768w, /wp-content/uploads/2015/04/10458378_1043507712329992_7596479254791654183_n-250x250.jpg 250w, /wp-content/uploads/2015/04/10458378_1043507712329992_7596479254791654183_n-174x174.jpg 174w, /wp-content/uploads/2015/04/10458378_1043507712329992_7596479254791654183_n.jpg 851w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2015/04/10458378_1043507712329992_7596479254791654183_n.jpg)-->
